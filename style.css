@@ -827,6 +827,16 @@ h4 {
     background-image: url("img/image-de-presentation.bmp");
 }
 
+.citation {
+    font-size: 20px;
+    font-style: italic;
+    margin: 0 13%;
+}
+.auteur {
+    font-size: 14px;
+    padding-bottom: 8%;
+}
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
